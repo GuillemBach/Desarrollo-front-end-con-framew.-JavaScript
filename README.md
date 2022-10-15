@@ -1,2 +1,4 @@
 # Desarrollo-front-end-con-framew.-JavaScript
-UOC
+Login UOC: gbachsa
+Guillem Bach Sayós
+Descripción:
